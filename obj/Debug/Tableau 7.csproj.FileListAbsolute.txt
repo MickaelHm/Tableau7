@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\bin\Debug\Tableau 7.exe.config
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\bin\Debug\Tableau 7.exe
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\bin\Debug\Tableau 7.pdb
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\obj\Debug\Tableau 7.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\obj\Debug\Tableau 7.exe
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\obj\Debug\Tableau 7.pdb
+C:\Users\Moi\source\repos\Tableau 7\Tableau 7\obj\Debug\Tableau 7.csprojAssemblyReference.cache
